@@ -13,7 +13,7 @@
 import { test, expect } from '../../fixtures/pageFixtures';
 import { Helper } from '../../utils/helper';
 
-test('Complete end-to-end shopping flow @master @sanity @regression @web @end-to-end', async ({
+test('Complete end-to-end shopping flow @master @sanity @regression @web @e2e', async ({
     page,
     homePage,
 }) => {
